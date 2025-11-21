@@ -1,8 +1,8 @@
 
 
 Hi there 👋  
-I am Aman, a cybersecurity student finishing my final year in Computer Science. 
-I document CTF write-ups, experiments, and open-source projects related to offensive security, logging/monitoring, and cloud SIEM.
+- I am Aman, a cybersecurity student finishing my final year in Computer Science. 
+- I document CTF write-ups, experiments, and open-source projects related to offensive security, logging/monitoring, and cloud SIEM.
 
 ---
 
