@@ -1,7 +1,8 @@
-# Aman (cybraman)
+
 
 Hi there 👋  
-I am Aman, a cybersecurity student finishing my final year in Computer Science. I document CTF write-ups, experiments, and open-source projects related to offensive security, logging/monitoring, and cloud SIEM.
+I am Aman, a cybersecurity student finishing my final year in Computer Science. 
+I document CTF write-ups, experiments, and open-source projects related to offensive security, logging/monitoring, and cloud SIEM.
 
 ---
 
@@ -36,14 +37,19 @@ Documenting my journey solving challenges from **HackTheBox** and **TryHackMe**
 
 ---
 
+## 🧠 Knowledge Sharing  
+- ✍️ **Sharing Writeups** – [Read Blog](https://medium.com/@cybraman)  
+
+---
+
 ## 📫 Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanparihar-cybersecurity)
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-- [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/cybraman)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/cybraman)
+- [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/cybraman)
 - [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/your-reddit-username)
-- [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/your-tryhackme-username)
-- [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/your-htb-id)
+- [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/cybraman)
+- [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/cybraman)
 
   
 
