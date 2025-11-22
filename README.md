@@ -6,8 +6,6 @@ Hi there 👋
 
 ---
 
-https://gifdb.com/cyberpunk
-
 ### 🕵️ [CTF Write-Ups](https://https://github.com/CyberAmanX/Labs-Write-Ups)
 Documenting my journey solving challenges from **HackTheBox** and **TryHackMe**
 - [Labs & CTF Writeups](https://github.com/CyberAmanX/Labs-Write-Ups)
