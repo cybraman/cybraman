@@ -14,6 +14,7 @@ Documenting my journey solving challenges from **HackTheBox** and **TryHackMe**
 - [Honeypot on Azure Cloud](https://github.com/CyberAmanX/T-pot-Honeypot-on-Azure-Cloud)
 - [Nessus Vulnerability Scan](https://github.com/CyberAmanX/Nessus-Vulnerability-Scanner)
 - [SIEM-Homelab-Wazuh-Sysmon-AD](https://github.com/CyberAmanX/SIEM-Homelab-Wazuh-Sysmon-AD)
+- [Slack-Splunk Bot](https://github.com/cybraman/splunk-slack-bot)
 
 ---
 
@@ -30,6 +31,8 @@ Documenting my journey solving challenges from **HackTheBox** and **TryHackMe**
 ---
 
 ## 🎓 Certifications
+- Comptia Security+
+- Microsoft SC-900
 - Google Cybersecurity (Coursera)
 - IBM Cybersecurity Specialist (Coursera)
 - Red Hat Linux
