@@ -2,13 +2,12 @@
 
 <h1 align="center">Hi 👋 I'm Aman Parihar</h1>
 
-
 - I am Aman, a cybersecurity student finishing my final year in Computer Science. 
 - I document my cybersecurity journey through hands-on labs, projects, and CTF writeups. Focused on Blue Team, Cloud Security, SIEM Monitoring, and DevSecOps.
--👻 I’m ambitious with new things I do..
--🫡 Feel free to ask me anything! I’m motivated to help others.
--😎 Reach out to me at: contact@amanparihar.me
-https://komarev.com/ghpvc
+- 👻 I’m ambitious with new things I do..
+- 🫡 Feel free to ask me anything! I’m motivated to help others.
+- 😎 Reach out to me at: contact@amanparihar.me
+![](https://komarev.com/ghpvc/cybraman)
 
 
 
