@@ -1,5 +1,6 @@
-![hacker](https://github.com/user-attachments/assets/75cfd485-acc5-4b2e-98a1-578c67e08e9c)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/75cfd485-acc5-4b2e-98a1-578c67e08e9c" width="100%">
+</p>
 <h1 align="center">CYBRAMAN</h1>
 
 - I am Aman, a cybersecurity student finishing my final year in Computer Science. 
