@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/75cfd485-acc5-4b2e-98a1-578c67e08e9c" width="100%">
 </p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;DevSecOps+Learner;Cloud+Security+Enthusiast;SIEM+Monitoring+%7C+Threat+Detection"/>
+</p>
 <h1 align="center">CYBRAMAN</h1>
 
 - I am Aman, a cybersecurity student finishing my final year in Computer Science. 
@@ -8,7 +11,9 @@
 - 👻 I’m ambitious with new things I do..
 - 🫡 Feel free to ask me anything! I’m motivated to help others.
 - 😎 Reach out to me at: contact@amanparihar.me
-![](https://komarev.com/ghpvc/cybraman)
+- <p align="center">
+<img src="https://komarev.com/ghpvc/?username=cybraman&label=Profile%20Views&color=blue&style=for-the-badge"/>
+</p>
 
 
 
@@ -29,9 +34,9 @@ Documenting my journey solving challenges from **HackTheBox** and **TryHackMe**
 
 ## 🛠️ Tools & Technologies
 
-| 🔍 Offensive Security & Pen Testing | 🖥️ Network Analysis & Monitoring | ☁️ Cloud & SIEM Tools |
+| 🔍 Offensive Security & Pen Testing | 🖥️ Network Analysis & Monitoring |
 |---|---|---|
-| ![Metasploit](https://img.shields.io/badge/Metasploit-3F5DFF?style=for-the-badge&logo=metasploit&logoColor=white)<br>![Nmap](https://img.shields.io/badge/Nmap-004682?style=for-the-badge&logo=nmap&logoColor=white)<br>![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)<br>![Hydra](https://img.shields.io/badge/Hydra-228B22?style=for-the-badge)<br>![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-8B0000?style=for-the-badge) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)<br>![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)<br>![Tcpdump](https://img.shields.io/badge/Tcpdump-FF4500?style=for-the-badge)<br>![Snort](https://img.shields.io/badge/Snort-FF3366?style=for-the-badge)<br>![OpenVAS](https://img.shields.io/badge/OpenVAS-4CAF50?style=for-the-badge) | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)<br>![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)<br>![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)<br>![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white) |
+| ![Metasploit](https://img.shields.io/badge/Metasploit-3F5DFF?style=for-the-badge&logo=metasploit&logoColor=white)<br>![Nmap](https://img.shields.io/badge/Nmap-004682?style=for-the-badge&logo=nmap&logoColor=white)<br>![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)<br>![Hydra](https://img.shields.io/badge/Hydra-228B22?style=for-the-badge)<br>![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-8B0000?style=for-the-badge) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)<br>![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)<br>![Tcpdump](https://img.shields.io/badge/Tcpdump-FF4500?style=for-the-badge)<br>![Snort](https://img.shields.io/badge/Snort-FF3366?style=for-the-badge)<br>![OpenVAS](https://img.shields.io/badge/OpenVAS-4CAF50?style=for-the-badge) |
 
 ## 🛠️ Tech Stack
 
