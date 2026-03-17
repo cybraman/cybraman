@@ -11,9 +11,6 @@
 - 👻 I’m ambitious with new things I do..
 - 🫡 Feel free to ask me anything! I’m motivated to help others.
 - 😎 Reach out to me at: contact@amanparihar.me
-- <p align="center">
-<img src="https://komarev.com/ghpvc/?username=cybraman&label=Profile%20Views&color=blue&style=for-the-badge"/>
-</p>
 
 
 
@@ -70,6 +67,10 @@ Documenting my journey solving challenges from **HackTheBox** and **TryHackMe**
 - [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/cybraman)
 
   
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=cybraman&label=Profile%20Views&color=blue&style=for-the-badge"/>
+</p>
+
 
 > “The quieter you become, the more you are able to hear.” — **Ram Dass**  
 > “Hack the planet. Secure the future.”
