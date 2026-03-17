@@ -1,10 +1,10 @@
+<h1 align="center">CYBRAMAN</h1>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/75cfd485-acc5-4b2e-98a1-578c67e08e9c" width="100%">
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;DevSecOps+Learner;Cloud+Security+Enthusiast;SIEM+Monitoring+%7C+Threat+Detection"/>
 </p>
-<h1 align="center">CYBRAMAN</h1>
 
 - I am Aman, a cybersecurity student finishing my final year in Computer Science. 
 - I document my cybersecurity journey through hands-on labs, projects, and CTF writeups. Focused on Blue Team, Cloud Security, SIEM Monitoring, and DevSecOps.
