@@ -32,7 +32,7 @@ Documenting my journey solving challenges from **HackTheBox** and **TryHackMe**
 ## 🛠️ Tools & Technologies
 
 | 🔍 Offensive Security & Pen Testing | 🖥️ Network Analysis & Monitoring |
-|---|---|---|
+|---|---|
 | ![Metasploit](https://img.shields.io/badge/Metasploit-3F5DFF?style=for-the-badge&logo=metasploit&logoColor=white)<br>![Nmap](https://img.shields.io/badge/Nmap-004682?style=for-the-badge&logo=nmap&logoColor=white)<br>![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)<br>![Hydra](https://img.shields.io/badge/Hydra-228B22?style=for-the-badge)<br>![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-8B0000?style=for-the-badge) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)<br>![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)<br>![Tcpdump](https://img.shields.io/badge/Tcpdump-FF4500?style=for-the-badge)<br>![Snort](https://img.shields.io/badge/Snort-FF3366?style=for-the-badge)<br>![OpenVAS](https://img.shields.io/badge/OpenVAS-4CAF50?style=for-the-badge) |
 
 ## 🛠️ Tech Stack
