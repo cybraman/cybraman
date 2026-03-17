@@ -1,6 +1,6 @@
 ![hacker](https://github.com/user-attachments/assets/75cfd485-acc5-4b2e-98a1-578c67e08e9c)
 
-<h1 align="center">Hi 👋 I'm Aman Parihar</h1>
+<h1 align="center">CYBRAMAN</h1>
 
 - I am Aman, a cybersecurity student finishing my final year in Computer Science. 
 - I document my cybersecurity journey through hands-on labs, projects, and CTF writeups. Focused on Blue Team, Cloud Security, SIEM Monitoring, and DevSecOps.
