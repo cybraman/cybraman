@@ -1,4 +1,4 @@
-<h1 align="center">CYBRAMAN</h1>
+<h1 align="center"><img src=https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YjFlNXhsYzdmOTBwbnJzZGFocmt6NjVkankyMjdmbGRteGphMmludSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/77rvjVcaJr1BgKSXtR/giphy.gif/><h1>CYBRAMAN</h1>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/75cfd485-acc5-4b2e-98a1-578c67e08e9c" width="100%">
 </p>
@@ -53,7 +53,7 @@ Documenting my journey solving challenges from **HackTheBox** and **TryHackMe**
 
 
 ## 🧠 Knowledge Sharing  
-- ✍️ **Sharing Writeups** – [Read Blog](https://medium.com/@cybraman)  
+- ✍️ **Medium** – [Read Blog](https://medium.com/@cybraman)  
 
 
 
