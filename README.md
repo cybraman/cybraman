@@ -2,8 +2,8 @@
 <p align="center">
 
 <img width="4950" height="1238" alt="CybrAman_github_banner1" src="https://github.com/user-attachments/assets/47b6ed88-56f9-4051-bbd5-dd2d0549068e" />
-![Uploading CybrAman_github_banner2.png…]()
-<img width="4950" height="1238" alt="CybrAman_github_banner1" src="https://github.com/user-attachments/assets/fcb226b8-7aea-4f9d-82e6-e5d8ba1af033" />
+![CybrAman_github_banner2](https://github.com/user-attachments/assets/68fcceae-b7cb-4217-af31-0d3940f1783a)
+
 
   
 
