@@ -1,7 +1,12 @@
 <h1 align="center">CYBRAMAN</h1>
 <p align="center">
-<img width="4950" height="1238" alt="Aman Parihar (New LinkedIn Banner) (5)" src="https://github.com/user-attachments/assets/d0ddbf87-10e5-44b9-9d95-53549e8f9b03" />
+
+<img width="4950" height="1238" alt="CybrAman_github_banner1" src="https://github.com/user-attachments/assets/47b6ed88-56f9-4051-bbd5-dd2d0549068e" />
+![Uploading CybrAman_github_banner2.png…]()
+<img width="4950" height="1238" alt="CybrAman_github_banner1" src="https://github.com/user-attachments/assets/fcb226b8-7aea-4f9d-82e6-e5d8ba1af033" />
+
   
+
 - I am Aman, a cybersecurity student completed my graduation in Computer Science. 
 - I document my cybersecurity journey through hands-on labs, projects, and CTF writeups. Focused on Blue Team, Cloud Security, SIEM Monitoring, and DevSecOps.
 - 👻 I’m ambitious with new things I do..
